@@ -1,0 +1,4 @@
+loan_status, outstanding_balance ,%
+Charged_Off," 19,309,656.00 ",9%
+Closed," 75,742,871.00 ",37%
+Active," 110,176,535.00 ",54%
