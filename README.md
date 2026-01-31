@@ -31,6 +31,8 @@ _All KPIs are calculated directly in Tableau using loan and payment data._
 - **SQL** – Data validation, schema design, KPI logic verification  
 - **Tableau Public** – Dashboard development and calculated fields  
 - **CSV Data Sources** – Loan and payment data
+- **CSV SQL output/results** - Delinquency Rate, Delinquent Loans, Monthly Recovery Trend data, Outstanding Balance by Loan Status Recovered,     
+                               Outstanding Recovery Rate (%), Total Loan Portfolio.
 
 ## 📈 Tableau Dashboard
 View the interactive dashboard here:  
