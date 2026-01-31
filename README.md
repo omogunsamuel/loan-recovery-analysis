@@ -39,10 +39,17 @@ View the interactive dashboard here:
 ## 🗂 Repository Structure
 **loan-recovery-analysis/
 ├── data/
+
 │ ├── loans.csv
+
 │ └── payments.csv
+
 ├── sql/
+
 │ └── kpi_validation_queries.sql
+
 ├── tableau/
+
 │ └── operational_loan_recovery_dashboard.twbx
+
 └── README.md**
